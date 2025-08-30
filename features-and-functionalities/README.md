@@ -51,7 +51,8 @@ The diagram below visually represents the main modules and their functionalities
 
 The diagram below illustrates the **backend features and functionalities**:
 
-![Airbnb Clone Backend Features](User Management.png)
+![Airbnb Clone Backend Features](airbnb_backend_features.png)
+
 
 ---
 
