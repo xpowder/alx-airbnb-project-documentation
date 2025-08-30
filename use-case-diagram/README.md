@@ -8,5 +8,5 @@ This diagram shows how different users interact with the Airbnb Clone backend.
 - **Admin** – manages users and listings.  
 
 ## Use Case Diagram
-![Airbnb Clone Use Case Diagram](./airbnb_use_case.png)
+![Airbnb Clone Use Case Diagram](airbnb_use_case.png)
 
